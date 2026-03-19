@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מזוזות בהתאמה אישית שמשלבות מסורת, אמנות ואהבה. עצב את המזוזה המושלמת לביתך או כמתנה מרגשת לחתונה. הזמן עכשיו ישירות אונליין!
+
+### הסיפור שלנו
+https://example.com/story
+גלה את הלב שמאחורי שומר הבית — מסע של אמונה, מלאכת יד ותשוקה ליצור מזוזות מעוצבות שנושאות משמעות אמיתית לכל בית יהודי.
+
+### גלריה
+https://example.com/gallery
+גלריית מזוזות מעוצבות שתעניק לך השראה בלתי נגמרת. כל יצירה ייחודית, מותאמת אישית ומושלמת כמתנה לחתונה, לחנוכת בית ולכל אירוע מיוחד.
+
+### צור קשר
+https://example.com/contact
+רוצה מזוזה מעוצבת שתספר את הסיפור שלך? צור קשר עכשיו ונתחיל לתכנן יחד מזוזה אישית ומיוחדת. קנייה קלה ומהירה אונליין ישראל.
+
+### Products
+https://example.com/products
+המוצרים שלנו - שומר הבית
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - שומר הבית
+
+### Category
+https://example.com/category/:slug
+מוצרים - שומר הבית
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
